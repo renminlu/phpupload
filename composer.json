@@ -1,0 +1,15 @@
+{
+  "name": "renminlu/phpupload",
+  "description": "文件上传",
+  "keywords": ["upload", "文件上传"],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "renminlu\\phpupload\\": "src/"
+    }
+  }
+}
